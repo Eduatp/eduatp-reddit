@@ -1,0 +1,13 @@
+{
+  "name": "eduatp-reddit-integration-review",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sanitized read-only Reddit integration submitted for API review.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
